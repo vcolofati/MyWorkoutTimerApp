@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyWorkoutTimer</string>
+
+    <string name="btn_reset">Reset</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_start">Start</string>
+    <string name="text_interval">Interval</string>
+    <string name="text_series">Series</string>
+    <string name="text_seconds">sec</string>
+    <string name="text_minutes">min</string>
 </resources>

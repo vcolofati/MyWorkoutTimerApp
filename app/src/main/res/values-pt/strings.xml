@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyWorkoutTimer</string>
+
+    <string name="btn_reset">Recomeçar</string>
+    <string name="btn_stop">Parar</string>
+    <string name="btn_start">Iniciar</string>
+    <string name="text_interval">Intervalo</string>
+    <string name="text_series">Séries</string>
+    <string name="text_seconds">seg</string>
+    <string name="text_minutes">min</string>
+</resources>
